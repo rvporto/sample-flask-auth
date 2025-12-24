@@ -1,1 +1,4 @@
 # sample-flask-auth
+
+Repositírio criado para armazenar o código 
+da API de autenticação com bando de dados.
